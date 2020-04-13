@@ -1,4 +1,4 @@
-# Unit 10 OOP Homework: Template Engine - Employee Summary
+# Team Profile Generator 
 
 * This is a Node.js command line application that prompts the user with questions to build a profile for their Team in an HTML file.
 
