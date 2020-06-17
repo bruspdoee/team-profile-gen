@@ -1,17 +1,22 @@
-# Unit 10 OOP Homework: Template Engine - Employee Summary
+# Template Engine - Employee Summary
 
-* This is a Node.js command line application that prompts the user with questions to build a profile for their Team in an HTML file.
+- Want to see how this CLI works without cloning this repo?
+  https://drive.google.com/file/d/14z1doT-urhhS5hIMOiIUugpGJ5hLuUXO/view
 
-* It will first start with the Manager of the team and ask questions like "What is your name, number, email, etc" then it will ask if they would like to add on a team member (Either and Engineer or an Intern OR if you're a one man crew - it will give you an option to finish it off)
+<img src="template.png" width="50%" height="50%">
 
-* If Engineer is selected, you will be prompted with questions to create a profile for the Engineers(s) on your team. 
+- This is a Node.js command line application that prompts the user with questions to build a profile for their Team in an HTML file.
 
-* Same goes for Intern 
+- It will first start with the Manager of the team and ask questions like "What is your name, number, email, etc" then it will ask if they would like to add on a team member (Either and Engineer or an Intern OR if you're a one man crew - it will give you an option to finish it off)
 
-* Then, once you select "No more team members" options, it will end the CLI and create a team.html file with cards for each team member starting with the Manager. 
+- If Engineer is selected, you will be prompted with questions to create a profile for the Engineers(s) on your team.
 
-* Create a profile for your team, and check this app out! 
+- Same goes for Intern
 
-# Questions 
+- Then, once you select "No more team members" options, it will end the CLI and create a team.html file with cards for each team member starting with the Manager.
 
-* Please reach out to me with any enchancement ideas or collab @bruspdoee 
+- Create a profile for your team, and check this app out!
+
+# Questions
+
+- Please reach out to me with any enchancement ideas or collab @bruspdoee
